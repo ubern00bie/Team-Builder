@@ -13,7 +13,7 @@
   - [Testing-Instructions](#Testing-Instructions)
   - [Feedback](#Feedback)
   - [License](#License)
-===========================================
+
 
   ## Installation-Instructions
   Download the project files and run npm install with node. After that run the Team-Builder by typing "node index"
