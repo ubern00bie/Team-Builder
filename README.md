@@ -14,6 +14,7 @@
   - [Feedback](#Feedback)
   - [License](#License)
 
+[![TEAM-BUILDER DEMO](./assets/demo.PNG)](https://drive.google.com/file/d/1rouo19pqr_pMupgbxbymYdtWBV8ZPm1s/view "Demo")
 
   ## Installation-Instructions
   Download the project files and run npm install with node. After that run the Team-Builder by typing "node index"
